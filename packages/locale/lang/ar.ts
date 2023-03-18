@@ -89,12 +89,12 @@ export default {
       pagesize: '/صفحة',
       total: 'الكل {total}',
       pageClassifier: '',
-      page: 'Page', // to be translated
-      prev: 'Go to previous page', // to be translated
-      next: 'Go to next page', // to be translated
-      currentPage: 'page {pager}', // to be translated
-      prevPages: 'Previous {pager} pages', // to be translated
-      nextPages: 'Next {pager} pages', // to be translated
+      page: 'صفحة', // to be translated
+      prev: 'السابقة', // to be translated
+      next: 'التالي', // to be translated
+      currentPage: 'الصفحة {pager}', // to be translated
+      prevPages: 'الصفحات {pager} السابقة', // to be translated
+      nextPages: 'الصفحات {pager} التالية', // to be translated
     },
     dialog: {
       close: 'أغلق هذا التبويب',
@@ -134,14 +134,14 @@ export default {
       hasCheckedFormat: '{checked}/{total} مختار',
     },
     image: {
-      error: 'فشل',
+      error: 'خطأ',
     },
     pageHeader: {
       title: 'عودة',
     },
     popconfirm: {
-      confirmButtonText: 'Yes', // to be translated
-      cancelButtonText: 'No', // to be translated
+      confirmButtonText: 'نعم', // to be translated
+      cancelButtonText: 'لا', // to be translated
     },
   },
 }
